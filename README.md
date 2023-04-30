@@ -1,5 +1,4 @@
-
-Project Tile : Smart Bus Management System(SBM)
+Smart Bus Management System(SBM)
 
 
 About Project: 
