@@ -1,5 +1,7 @@
-# Project_1
+
 Project Tile : Smart Bus Management System(SBM)
+
+
 About Project: 
 It is an application designed for students availing of the 
 bus facility. The basic objective behind developing this 
